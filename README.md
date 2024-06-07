@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Gabriel Juvêncio
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juvxncio&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juvxncio&&layout=compact&theme=dracula)
+<div>
+  <a href="https://www.github.com/juvxncio">
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=juvxncio&show_icons=true&theme=dracula"/>
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvxncio&&layout=compact&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juve-Py" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
