@@ -17,7 +17,5 @@
   <a href= "mailto:bieljuvencio@gmail.com" target="_blank"><image src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href= "https://www.linkedin.com/in/bieljuvencio/" target="_blank"><image src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-![Snake animation](https://github.com/juvxncio/juvxncio/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
