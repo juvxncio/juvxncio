@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Juvêncio
+## Olá! Eu sou o Gabriel Juvêncio 🐧
 <div>
   <a href="https://www.github.com/juvxncio">
   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=juvxncio&show_icons=true&theme=dracula"/>
